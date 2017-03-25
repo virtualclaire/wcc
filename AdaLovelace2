@@ -1,0 +1,39 @@
+<header>
+  <h1>Ada Lovelace</h1>
+  <img width='300' height='300' src='https://metrouk2.files.wordpress.com/2013/10/ay95895977ada-lovelace-engl.jpg'>
+</header>
+
+<section>
+  <blockquote cite='http://www.biography.com/people/ada-lovelace-20825323'>
+    The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace—better known as "Ada Lovelace"—was born in London on December 10, 1815. Ada showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Ada is considered the first computer programmer. Ada died on November 27, 1852.
+  </blockquote>
+
+  <p>Ada had an unusual upbringing for an aristocratic girl in the mid-1800s. At her mother's insistence, tutors taught her mathematics and science. Such challenging subjects were not standard fare for women at the time, but her mother believed that engaging in rigorous studies would prevent Lovelace from developing her father's moody and unpredictable temperament. Ada was also forced to lie still for extended periods of time because her mother believed it would help her develop self-control.</p>
+</section>
+
+<section>
+  <h2>Interesting Facts</h2>
+  <ul>
+      <li>Ada Lovelace, born as Augusta Ada Byron, was the only legitimate child of the famous poet Lord George Gordon Byron.</li>
+      <li>Ada was born in London on December 10, 1815</li>
+      <li>Ada showed her gift for mathematics at an early age.</li>
+      <li>Ada is considered the first computer programmer and she died on November 27, 1852.</li>
+  </ul>
+</section>
+
+<section>
+    <h2>Learn More</h2>
+    <ul>
+      <a href='http://www.biography.com/people/ada-lovelace-20825323' target='_blank'>Ada Lovelace on Biography</a>
+      <br>
+      <a href='http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer'>Ada Lovelace: The First Computer Programmer</a>
+      <br>
+      <a href='http://www.history.com/news/10-things-you-may-not-know-about-ada-lovelace'>10 Things You May Not Know About Ada Lovelace</a>
+      <br>
+  
+    </ul>
+</section>
+
+<footer>
+  Created by the WCC
+</footer>
